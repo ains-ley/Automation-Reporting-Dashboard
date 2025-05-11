@@ -14,6 +14,7 @@ The Internal Audit team previously relied on a manual process to generate Commer
 - Leverage reusable data pipelines to enable fully automated refreshes
 
 # ⚙️ Automated Reporting Workflow (Post-Transformation)
-<img width="347" alt="Ảnh màn hình 2025-05-11 lúc 21 51 31" src="https://github.com/user-attachments/assets/162c0414-0719-4371-94dd-a9efa8a520ae" />
+<img width="347" alt="442513072-162c0414-0719-4371-94dd-a9efa8a520ae" src="https://github.com/user-attachments/assets/cda81d71-9c68-4e31-b3f5-d051742751f7" />
+
 
 
