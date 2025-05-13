@@ -16,7 +16,14 @@ The Internal Audit team previously relied on a manual process to generate Commer
 
 # ⚙️ Automated Reporting Workflow (Post-Transformation)
 ![Workflow something](https://github.com/user-attachments/assets/dc194b39-460b-4039-a2e9-08d2fc1769e2)
+                
                 **⏱️ Time Savings: ~70% reduction in processing time**
 
+# 🔍 Key Improvements
+- Eliminated error-prone file compilation steps
+- Reduced refresh time by over 70%
+- Enabled weekly automation-ready updates
+- Built reusable pipeline for future scaling
+- Enhanced clarity, traceability, and debugging capability
 
 
